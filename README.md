@@ -5,18 +5,13 @@ tested os so far
 
 
 
-windows 10 2021 LTSC: Failed
-
+windows 10 LTSCs: Failed
 
 
 Windows 10 21h2: Works
 
 
-
-
 Windows 10 22h2: Works
-
-
 
 
 Windows 11 24h2: Works
