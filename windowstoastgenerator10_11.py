@@ -304,7 +304,7 @@ class ToastGeneratorApp:
 
         ttk.Label(
             about_tab,
-            text="this made my @pixxxxyll, theres no virus on this trust me punk\U0001f923\U0001f64f\U0001f413\U0001f413\U0001f413",
+            text=" this made my @pixxxxyll (Effan), ps this not virus 😂😂🐓🐓🤣🤣🤣🤣🤣🤣",
             wraplength=660,
         ).pack(anchor="w")
 
